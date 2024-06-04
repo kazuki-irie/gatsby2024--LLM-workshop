@@ -2,4 +2,4 @@
 
 This repository contains helper notebooks for example projects.
 
-Note: we plan to add a few more helper comments to the code. Please check this repo again before the session for the latest version of notebooks.
+\[[PDF doc](https://drive.google.com/file/d/1SGovEYqT5993o-9t1IAKLVsDEmDJ0UXp/view?usp=sharing), [Slides](https://docs.google.com/presentation/d/1KekPeVF_CYVYZYxO7AGBi2B7PMjqCYX1Y_PAFamVR1A/edit?usp=sharing)\]
